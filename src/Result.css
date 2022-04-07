@@ -1,0 +1,14 @@
+.text-box-style {
+    background: none !important;
+    color: #FFF;
+    min-height: calc(1.5em + 1rem + 2px);
+    padding: 0.5rem 1rem;
+    font-size: 2.25rem;
+    border-radius: 0.3rem;
+    outline: none;
+}
+
+    .text-box-style:focus {
+        color: #FFF;
+        border: dashed 0px;
+    }
